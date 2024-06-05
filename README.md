@@ -1,5 +1,7 @@
 # Hi there, I'm Alberto 👋
 
+![Profile Picture]([https://example.com/your-image.jpg](https://drive.google.com/file/d/1YXtcxK7r8AmnXnr8HLZmKPe1QPzetw4a/view?usp=sharing))
+
 I'm a data scientist with a passion for uncovering insights and building data-driven solutions.
 
 ## 🛠️ Skills
