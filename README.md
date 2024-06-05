@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there, I'm Alberto 👋
 
 I'm a data scientist with a passion for uncovering insights and building data-driven solutions.
