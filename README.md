@@ -13,3 +13,4 @@ I'm a data scientist with a passion for uncovering insights and building data-dr
 
 ## 📫 Contact
 - [Email](mailto:alberto.mendez1710@gmail.com)
+- [LinkedIn](<https://www.linkedin.com/in/albertoromero-dataanalyst>)
