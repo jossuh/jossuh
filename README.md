@@ -1,6 +1,6 @@
 # Hi there, I'm Alberto 👋
 
-![Profile Picture](GithubBanner.png)
+![Profile Picture](Banner.png)
 
 I'm a data scientist with a passion for uncovering insights and building data-driven solutions.
 
