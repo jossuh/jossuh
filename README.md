@@ -11,5 +11,5 @@ I'm a data scientist with a passion for uncovering insights and building data-dr
 - **Other**: Advanced proficiency in Excel
 
 ## 📫 Contact
-- [Email](mailto:alberto.mendez1710@gmail.com)
+- [Email](mailto:josuejr7.m@gmail.com)
 - [LinkedIn](<https://www.linkedin.com/in/albertoromero-dataanalyst>)
