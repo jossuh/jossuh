@@ -1,4 +1,4 @@
-# Hi there, I'm Alberto 👋
+# Hi there, I'm Joshua 👋
 
 ![Profile Picture](Banner.png)
 
