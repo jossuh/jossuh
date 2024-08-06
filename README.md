@@ -12,4 +12,4 @@ I am a passionate mechatronics engineer with a specialization in Python and arti
 
 ## 📫 Contact
 - [Email](mailto:josuejr7.m@gmail.com)
-- [LinkedIn](<https://www.linkedin.com/in/albertoromero-dataanalyst>)
+- [LinkedIn](<https://www.linkedin.com/in/josueromero-dataanalyst>)
