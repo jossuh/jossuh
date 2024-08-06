@@ -11,5 +11,5 @@ I am a passionate mechatronics engineer with a specialization in Python and arti
 - **Other**: Advanced proficiency in Excel.
 
 ## 📫 Contact
-- [Email](mailto:josuejr7.m@gmail.com)
-- [LinkedIn](<https://www.linkedin.com/in/josueromero-dataanalyst>)
+- Email: [josuejr7.m@gmail.com](mailto:josuejr7.m@gmail.com)
+- LinkedIn: [www.linkedin.com/in/josueromero-dataanalyst](https://www.linkedin.com/in/josueromero-dataanalyst)
