@@ -17,5 +17,4 @@ Whether it's process automation, advanced data analytics or API´s / AI integrat
 - **Other**: Advanced proficiency in Excel and Macros.
 
 ## 📫 Contact
-- Email: [josuejr7.m@gmail.com](mailto:josuejr7.m@gmail.com)
-- LinkedIn: [Josue Romero](https://www.linkedin.com/in/jossuh)
+- Email: [alberto.mendez1710@gmail.com](mailto:alberto.mendez1710@gmail.com)
