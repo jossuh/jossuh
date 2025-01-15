@@ -1,6 +1,6 @@
 # Hi there, I'm Joshua 👋
 
-![Profile Picture](Banner.png)
+![Profile Picture](BannerGitHub.png)
 
 I am a results-driven professional specializing in AI, data analysis, and automation, with a background in mechatronics engineering and a passion for leveraging technology to solve real-world problems.
 
