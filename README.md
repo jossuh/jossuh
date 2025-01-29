@@ -1,8 +1,8 @@
 # Hi there, I'm Joshua 👋
 
-![Profile Picture](BannerGitHub.png)
+![Profile Picture](GitHubBanner.png)
 
-I am a results-driven professional specializing in Workflows Automation, Data Analysis, and Artificial Intelligence. With a background in Mechatronics Engineering and a passion for leveraging technology to solve real-world problems.
+I am a results-driven professional specializing in Workflows Machine Learning, Artificial Intelligence, Data Analysis, and Workflow Automation. With a background in Mechatronics Engineering and a passion for leveraging technology to solve real-world problems.
 
 My expertise lies in building data-driven solutions, automating workflows and AI integrations to optimize operations and make informed decisions. 
 
