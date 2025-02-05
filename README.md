@@ -1,20 +1,22 @@
 # Hi there, I'm Joshua 👋
 
-![Profile Picture](GitHubBanner.png)
+![Profile Picture](GitHubBanner_Cover.png)
 
-I am a results-driven professional specializing in Workflows Machine Learning, Artificial Intelligence, Data Analysis, and Workflow Automation. With a background in Mechatronics Engineering and a passion for leveraging technology to solve real-world problems.
+As a data professional with a background in Mechatronics Engineering, I specialize in data analysis, reporting, and business intelligence using Python, SQL, Power BI, and Excel. My passion lies in transforming raw data into actionable insights that drive strategic decision-making and business growth.
 
-My expertise lies in building data-driven solutions, automating workflows and AI integrations to optimize operations and make informed decisions. 
+I excel at developing reports and dashboards that go beyond visuals—turning complex data into clear, compelling stories that empower informed decisions. Leveraging automation and advanced analytics, I optimize processes and improve operational efficiency.
 
-I thrive on delivering measurable value, streamlining processes, and empowering organizations with actionable insights. 
-
-Whether it's process automation, advanced data analytics or API´s / AI integrations, I am committed to achieving impactful results.
+Currently, I’m expanding my expertise in data science and machine learning, enhancing my ability to handle large datasets, uncover hidden patterns, and develop predictive models.
 
 ## 🛠️ Skills
-- **Programming Languages**: Python, SQL, Excel VBA.
-- **Libraries & Frameworks**: Pandas, Matplotlib.
-- **Data Visualization**: Power BI, Looker Studio.
-- **Other**: Advanced proficiency in Excel and Macros.
+- Programming Languages: Python, SQL, Excel VBA
+- Libraries & Frameworks: Pandas, NumPy, Matplotlib, Prophet
+- Data Visualization: Power BI, Looker Studio
+- Databases: PostgreSQL
+- Automation & Workflow Optimization: Power Query, Excel Macros
+- Data Analysis & Machine Learning: Exploratory Data Analysis (EDA), Predictive Modeling
+
+Driven by curiosity and a problem-solving mindset, I thrive in both independent and collaborative environments, ensuring high-quality results and continuous improvement.
 
 ## 📫 Contact
-- Email: [alberto.mendez1710@gmail.com](mailto:alberto.mendez1710@gmail.com)
+- Email: [josuejr7.m@gmail.com](mailto:josuejr7.m@gmail.com)
