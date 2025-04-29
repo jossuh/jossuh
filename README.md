@@ -2,11 +2,15 @@
 
 ![Profile Picture](GitHubBanner_Cover.png)
 
-As a data professional with a background in Mechatronics Engineering, I specialize in data analysis, reporting, and business intelligence using Python, SQL, Power BI, and Excel. My passion lies in transforming raw data into actionable insights that drive strategic decision-making and business growth.
+I am a technology and business enthusiast with a passion for creating impactful solutions. As a Mechatronics Engineer, I specialize in Python and Artificial Intelligence, and possess strong expertise in data analysis and the use of industry-leading tools.
 
-I excel at developing reports and dashboards that go beyond visuals—turning complex data into clear, compelling stories that empower informed decisions. Leveraging automation and advanced analytics, I optimize processes and improve operational efficiency.
+I have experience in sales and customer service, both in English and Spanish, which has allowed me to develop effective communication and persuasion skills. In my career, I’m expanding my expertise into both Data Engineering and Data Science, with the ultimate goal of growing into AI Engineering.
 
-Currently, I’m expanding my expertise in data science and machine learning, enhancing my ability to handle large datasets, uncover hidden patterns, and develop predictive models.
+In parallel, I develop AI agents that automate customer support and business operations — helping companies save time, deliver better customer experiences, and operate more efficiently.
+
+My mission is to bridge the gap between advanced technology and practical business impact, using data, automation, and artificial intelligence to create smarter workflows.
+
+Always learning, always building, and always aiming to turn ideas into results.
 
 ## 🛠️ Skills
 - Programming Languages: Python, SQL, Excel VBA
@@ -15,8 +19,6 @@ Currently, I’m expanding my expertise in data science and machine learning, en
 - Databases: PostgreSQL
 - Automation & Workflow Optimization: Power Query, Excel Macros
 - Data Analysis & Machine Learning: Exploratory Data Analysis (EDA), Predictive Modeling
-
-Driven by curiosity and a problem-solving mindset, I thrive in both independent and collaborative environments, ensuring high-quality results and continuous improvement.
 
 ## 📫 Contact
 - Email: [josuejr7.m@gmail.com](mailto:josuejr7.m@gmail.com)
