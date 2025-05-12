@@ -6,11 +6,7 @@ I am a technology and business enthusiast with a passion for creating impactful 
 
 I have experience in sales and customer service, both in English and Spanish, which has allowed me to develop effective communication and persuasion skills. In my career, I’m expanding my expertise into Data, Automation and AI.
 
-In parallel, I develop AI agents that automate customer support and business operations — helping companies save time, deliver better customer experiences, and operate more efficiently.
-
-My mission is to bridge the gap between advanced technology and practical business impact, using data, automation, and artificial intelligence to create smarter workflows.
-
-Always learning, always building, and always aiming to turn ideas into results.
+My mission is to bridge the gap between advanced technology and practical business impact, using data, automation, and artificial intelligence to create smart solutions.
 
 ## 🛠️ Skills
 - Programming Languages: Python, SQL, Excel VBA
