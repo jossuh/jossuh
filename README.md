@@ -4,9 +4,9 @@
 
 I am a technology and business enthusiast with a passion for creating impactful solutions. As a Mechatronics Engineer, I specialize in Python and Artificial Intelligence, and possess strong expertise in data analysis and the use of industry-leading tools.
 
-I have experience in sales and customer service, both in English and Spanish, which has allowed me to develop effective communication and persuasion skills. In my career, I’m expanding my expertise into Data, Automation and AI.
+I have experience in sales and customer service, both in English and Spanish, which has allowed me to develop effective communication and persuasion skills. In my career, I’m expanding my expertise Artificial Intelligence and Sales.
 
-My mission is to bridge the gap between advanced technology and practical business impact, using data, automation, and artificial intelligence to create smart solutions.
+My mission is to bridge the gap between advanced technology and practical business impact, using data and artificial intelligence to create smart solutions.
 
 ## 🛠️ Skills
 - Programming Languages: Python, SQL, Excel VBA
