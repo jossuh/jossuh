@@ -1,6 +1,6 @@
 # Hi there, I'm Joshua 👋
 
-![Profile Picture](ghbanner.jpg)
+![Profile Picture](ghbanner.png)
 
 I am a technology and business enthusiast with a passion for creating impactful solutions. As a Mechatronics Engineer, I specialize in Python and Artificial Intelligence, and possess strong expertise in data analysis, workflow automation and the use of industry-leading tools.
 
